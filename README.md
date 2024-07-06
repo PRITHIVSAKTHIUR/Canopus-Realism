@@ -37,9 +37,9 @@ Clone by :
 |-------------------------|-------------------------|
 | ![Image 3](assets/9.png) | ![Image 4](assets/11.png) |
 
-## Worning Demo
+## Working Demo
 
-![alt text](assets/yu.gif)
+![alt text](files/yu.gif)
 
 
 
