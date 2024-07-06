@@ -14,7 +14,7 @@ short_description: Canopus Realism | Text to Image LoRA
 
 👉🏻Model Repository : https://huggingface.co/prithivMLmods/Canopus-Realism-LoRA
 
-![alt text](files/vv.png)
+![alt text](files/cover.png)
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
