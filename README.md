@@ -33,7 +33,7 @@ Clone by :
 
 
 
-| ![Image 1](assets/a.png) | ![Image 2](assets/b.png) |
+| ![Image 1](assets/A.png) | ![Image 2](assets/B.png) |
 |-------------------------|-------------------------|
-| ![Image 3](assets/c.png) | ![Image 4](assets/d.png) |
+| ![Image 3](assets/C.png) | ![Image 4](assets/D.png) |
 
