@@ -31,9 +31,11 @@ Clone by :
     GIT_LFS_SKIP_SMUDGE=1 git clone https://huggingface.co/spaces/prithivMLmods/Canopus-Realism
 
 
-
+## 🧒🏻Demo Images : 
 
 | ![Image 1](assets/A.png) | ![Image 2](assets/B.png) |
 |-------------------------|-------------------------|
 | ![Image 3](assets/C.png) | ![Image 4](assets/D.png) |
+
+
 
