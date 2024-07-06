@@ -41,6 +41,20 @@ Clone by :
 
 ![alt text](files/yu.gif)
 
+## Screenshots
+
+![alt text](files/cce.png)
+
+## Requirements.txt
 
 
+| torch     | diffusers | transformers | safetensors |
+|-----------|-----------|--------------|-------------|
+| accelerate| spaces    | peft         | pillow      |
 
+
+.
+
+.
+
+.@prithivmlmods
