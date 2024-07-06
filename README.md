@@ -33,13 +33,12 @@ Clone by :
 
 ## 🧒🏻Demo Images : 
 
-| ![Image 1](assets/A.png) | ![Image 2](assets/B.png) |
+| ![Image 1](assets/3.png) | ![Image 2](assets/8.png) |
 |-------------------------|-------------------------|
-| ![Image 3](assets/C.png) | ![Image 4](assets/D.png) |
+| ![Image 3](assets/9.png) | ![Image 4](assets/11.png) |
 
 ## Worning Demo
 
-![Image 4](files/yu.gif)
 
 
 
