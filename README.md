@@ -1,3 +1,8 @@
+
+## ⭐⭐⭐  Model Repository : https://huggingface.co/prithivMLmods/Canopus-Realism-LoRA  ⭐⭐⭐
+
+![alt text](files/cc.png)
+
 ---
 title: CANOPUS REALISM
 emoji: 🧒🏻
@@ -11,11 +16,6 @@ license: creativeml-openrail-m
 header: mini
 short_description: Canopus Realism | Text to Image LoRA
 ---
-
-
-## ⭐⭐⭐  Model Repository : https://huggingface.co/prithivMLmods/Canopus-Realism-LoRA  ⭐⭐⭐
-
-![alt text](files/cc.png)
 
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
