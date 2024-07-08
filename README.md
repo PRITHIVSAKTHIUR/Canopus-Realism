@@ -13,7 +13,7 @@ short_description: Canopus Realism | Text to Image LoRA
 ---
 
 
-⭐⭐⭐  Model Repository : https://huggingface.co/prithivMLmods/Canopus-Realism-LoRA  ⭐⭐⭐
+## ⭐⭐⭐  Model Repository : https://huggingface.co/prithivMLmods/Canopus-Realism-LoRA  ⭐⭐⭐
 
 ![alt text](files/cc.png)
 
