@@ -65,7 +65,7 @@ Clone by :
 
 ## Model Dx
 
-![alt text](assets/dx.png)
+![alt text](assets/xddr.png)
 
 .
 
