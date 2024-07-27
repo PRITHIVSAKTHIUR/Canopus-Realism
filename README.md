@@ -56,17 +56,43 @@ Clone by :
 |-----------|-----------|--------------|-------------|
 | accelerate| spaces    | peft         | pillow      |
 
-
-.
-
-.
-
-.
-
 ## Model Dx
 
 ![alt text](assets/xddr.png)
 
+---
+
+# Canopus-Realism-LoRA
+
+The LoRA for the Realism model was trained based on Stable Diffusion XL, working paired with the Realvision_v4.0_Lightning model to obtain better diffusion and enhanced results.
+
+## Training Parameters
+
+| Parameter                  | Value       | Parameter                    | Value  |
+|----------------------------|-------------|------------------------------|--------|
+| **LR Scheduler**           | constant    | **Noise Offset**             | 0.03   |
+| **Optimizer**              | AdamW       | **Multires Noise Discount**  | 0.1    |
+| **Network Dim**            | 64          | **Multires Noise Iterations**| 10     |
+| **Network Alpha**          | 32          | **Repeat**                   | 20     |
+| **Epoch**                  | 20          | **Save Every N Epochs**      | 1      |
+
+## Basic Parameters Passed to the Code
+
+| Parameter                  | Value                                                                                      |
+|----------------------------|--------------------------------------------------------------------------------------------|
+| **Prompt**                 | Closeup of blonde woman depth of field, bokeh, shallow focus, minimalism, fujifilm xh2s with Canon EF lens, cinematic --ar 85:128 --v 6.0 --style raw |
+| **Sampler**                | euler                                                                                      |
+
+## Download Model
+
+Weights for this model are available in Safetensors format. You can download them from the [Files & versions](https://huggingface.co/prithivMLmods/Canopus-Realism-LoRA/tree/main) tab.
+
+---
+
+Feel free to modify further if needed!
+
 .
 
-.@prithivmlmods
+.
+
+.@prithivmlmods - hf
