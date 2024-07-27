@@ -64,7 +64,7 @@ Clone by :
 
 # Canopus-Realism-LoRA
 
-The LoRA for the Realism model was trained based on Stable Diffusion XL, working paired with the Realvision_v4.0_Lightning model to obtain better diffusion and enhanced results.
+The LoRA for the Realism model was trained based on Stable Diffusion XL, working paired with the RealVisXL_V4.0_Lightning model to obtain better diffusion and enhanced results.
 
 ## Training Parameters
 
@@ -88,8 +88,6 @@ The LoRA for the Realism model was trained based on Stable Diffusion XL, working
 Weights for this model are available in Safetensors format. You can download them from the [Files & versions](https://huggingface.co/prithivMLmods/Canopus-Realism-LoRA/tree/main) tab.
 
 ---
-
-Feel free to modify further if needed!
 
 .
 
