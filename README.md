@@ -21,6 +21,16 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 Spaces: https://huggingface.co/spaces/prithivMLmods/Canopus-Realism
 
+## Working Demo Canopus-Realism
+
+| Parameter           | Description                                          |
+|---------------------|------------------------------------------------------|
+| **Space Name**      | Canopus-Realism                                      |
+| **Model Repo**       | [⚡Datasets Used⚡](https://huggingface.co/datasets/prithivMLmods/Canopus-Realism-Minimalist) |
+| **Default Theme**   |      Light by Defalut / Can be altered                                         |
+| **Description**     | Canopus-Realism provides realistic image generation capabilities with a focus on high-quality outputs. |
+
+
 ![alt text](files/cover.png)
 
 Clone by : 
