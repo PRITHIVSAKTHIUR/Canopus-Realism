@@ -47,7 +47,7 @@ Clone by :
 
 ## Screenshots
 
-![alt text](files/cce.png)
+![alt text](assets/crz.png)
 
 ## Requirements.txt
 
