@@ -13,9 +13,17 @@ short_description: Canopus Realism | Text to Image LoRA
 ---
 
 
-## ⭐⭐⭐  Model Repository : https://huggingface.co/prithivMLmods/Canopus-Realism-LoRA  ⭐⭐⭐
+⭐⭐⭐  Model Repository : https://huggingface.co/prithivMLmods/Canopus-Realism-LoRA  ⭐⭐⭐
 
 ![alt text](files/cc.png)
+
+Run in Colab / kaggle notebooks
+
+🧲 : https://colab.research.google.com/drive/18dLI-YQPOP74ZQmEn6MhymZHZTzyD677?usp=sharing
+
+    Procedure :
+    Get HF_TOKEN (access token) to access the model.
+    Get Logged into Huggingface✅
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
